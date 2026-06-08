@@ -291,8 +291,8 @@ function toggleFullscreen() {
 const canvas = document.getElementById("visualizer");
 const ctx = canvas.getContext("2d");
 
-// Web audio API
-const audioCtx = new (window.audioContext || window.webkitaudioContext)();
+// Web Audio API
+const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 const source = audioCtx.createMediaElementSource(audio);
 const analyser = audioCtx.createAnalyser();
 
