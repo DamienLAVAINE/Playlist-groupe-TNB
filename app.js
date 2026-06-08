@@ -6,7 +6,7 @@ const tracks = [
   { name: "Crazy remake song", file: "audio/Crazy remake song-Violons 23032025.mp3", duration: "5:01" },
   { name: "Ca balance", file: "audio/ça balance-Orgue Bruno 1 plus fort-MP3.mp3", duration: "3:06" },
   { name: "Jack", file: "audio/JACK-MP3.mp3", duration: "3:54" },
-  { name: "Truc et machin", file: "audio/"Trucs et machins-Bruno Orgue+Clavinet 1-MP3.mp3", duration: "3:50" },
+  { name: "Truc et machin", file: "audio/Trucs et machins-Bruno Orgue+Clavinet 1-MP3.mp3", duration: "3:50" },
   { name: "Le tactile", file: "audio/LE TACTILE.mp3", duration: "3:27" },
    
    
