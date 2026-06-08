@@ -1,13 +1,13 @@
 const tracks = [
-  { name: "Speedman", file: "audio/speed manV2.mp3", duration: "3:16" },
-  { name: "Ice melting", file: "audio/ICE MELTING.mp3", duration: "4:36" },
-  { name: "Cours Forest", file: "audio/COURS FOREST-MP3.mp3", duration: "4:19" },
-  { name: "Troquet blues", file: "audio/TROQUET BLUES.mp3", duration: "4:15" },
-  { name: "Crazy remake song", file: "audio/Crazy remake song-Violons 23032025.mp3", duration: "5:01" },
-  { name: "Ca balance", file: "audio/ça balance-Orgue Bruno 1 plus fort-MP3.mp3", duration: "3:06" },
-  { name: "Jack", file: "audio/JACK-MP3.mp3", duration: "3:54" },
-  { name: "Truc et machin", file: "Trucs et machins-Bruno Orgue+Clavinet 1-MP3.mp3", duration: "3:50" },
-  { name: "Le tactile", file: "audio/LE TACTILE.mp3", duration: "3:27" },
+  { name: "Speedman", file: "Audio/speed manV2.mp3", duration: "3:16" },
+  { name: "Ice melting", file: "Audio/ICE MELTING.mp3", duration: "4:36" },
+  { name: "Cours Forest", file: "Audio/COURS FOREST-MP3.mp3", duration: "4:19" },
+  { name: "Troquet blues", file: "Audio/TROQUET BLUES.mp3", duration: "4:15" },
+  { name: "Crazy remake song", file: "Audio/Crazy remake song-Violons 23032025.mp3", duration: "5:01" },
+  { name: "Ca balance", file: "Audio/ça balance-Orgue Bruno 1 plus fort-MP3.mp3", duration: "3:06" },
+  { name: "Jack", file: "Audio/JACK-MP3.mp3", duration: "3:54" },
+  { name: "Truc et machin", file: "Audio/"Trucs et machins-Bruno Orgue+Clavinet 1-MP3.mp3", duration: "3:50" },
+  { name: "Le tactile", file: "Audio/LE TACTILE.mp3", duration: "3:27" },
    
    
 ];
