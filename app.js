@@ -1,5 +1,5 @@
 const tracks = [
-  { name: "Speedman", file: "audio/speed manV2.mp3", duration: "3:16" },
+  { name: "Speedman", file: "audio/speed man v2.mp3", duration: "3:16" },
   { name: "Ice melting", file: "audio/ICE MELTING.mp3", duration: "4:36" },
   { name: "Cours Forest", file: "audio/COURS FOREST-MP3.mp3", duration: "4:19" },
   { name: "Troquet blues", file: "audio/TROQUET BLUES.mp3", duration: "4:15" },
