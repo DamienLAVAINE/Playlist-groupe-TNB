@@ -366,5 +366,5 @@ function draw() {
 draw();
 
 document.addEventListener("click", () => {
-  AudioCtx.resume();
+  audioCtx.resume();
 }, { once: true });
