@@ -16,7 +16,7 @@ const tracks = [
 let current = 0;
 let repeatMode = false;
 
-const audio = document.getElementById("audio");
+const Audio = document.getElementById("Audio");
 const title = document.getElementById("title");
 const playlistDiv = document.getElementById("playlist");
 const searchInput = document.getElementById("search");
@@ -50,7 +50,7 @@ tracks.forEach((t, i) => {
 function playTrack(i) {
   current = i;
 
-  audio.src = tracks[i].file;
+  Audio.src = tracks[i].file;
 
   title.innerText = tracks[i].name;
 
@@ -366,5 +366,5 @@ function draw() {
 draw();
 
 document.addEventListener("click", () => {
-  audioCtx.resume();
+  AudioCtx.resume();
 }, { once: true });
