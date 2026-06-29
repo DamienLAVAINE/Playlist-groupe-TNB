@@ -8,8 +8,20 @@ const tracks = [
   { name: "Jack", file: "audio/JACK-MP3.mp3", duration: "3:54" },
   { name: "Truc et machin", file: "audio/Trucs et machins-Bruno Orgue+Clavinet 1-MP3.mp3", duration: "3:50" },
   { name: "Le tactile", file: "audio/LE TACTILE.mp3", duration: "3:27" },
-   
-   
+  { name: "A quoi qu'il", file: "audio/A QUI QUOI QU'IL.mp3", duration: "4:08" },
+  { name: "Amor c'est gore", file: "audio/AMOR C'EST GORE-MP3.mp3", duration: "4:16" },
+  { name: "Baby oh baby", file: "audio/BABY OH BABY.mp3", duration: "4:14" },
+  { name: "El sud america", file: "audio/EL SUD AMERICA.mp3", duration: "4:11" },
+  { name: "Et si c'était demain", file: "audio/ET SI C'ETAIT DEMAIN.mp3", duration: "4:24" },
+  { name: "Gafa", file: "audio/GAFA TEST 2.mp3", duration: "3:36" },
+  { name: "La bonne année", file: "audio/La bonne année-Bruno essai3-MP3.mp3", duration: "5:19" },
+  { name: "L'envers de l'endroit", file: "audio/l'envers de l'endroit v2.mp3", duration: "3:28" },
+  { name: "Les portes automatiques", file: "audio/les portes automatiques v3.mp3", duration: "4:00" },
+  { name: "P'tit d'homme", file: "audio/P'TIT D 'HOMMEV3-MP3.mp3", duration: "4:56" },
+  { name: "Seul tout seul", file: "audio/SEUL TOUT SEUL.mp3", duration: "4:56" },
+  { name: "Strange", file: "audio/strange v3.mp3", duration: "3:58" },
+  { name: "Yaourte", file: "audio/YAOURT-MP3.mp3", duration: "2:57" },
+  
 ];
 
 
