@@ -20,7 +20,7 @@ const tracks = [
   { name: "La bonne année", file: "audio/TNB-MAT 24 07 2026 la bonne année.mp3", duration: "5:19" },
   { name: "A quoi qu'il", file: "audio/TNB-MAT 24 07 2026 A qui quoi qu'il.mp3", duration: "4:08" },
   { name: "El sud america", file: "audio/TNB-MAT 24 07 2026 El sud America.mp3", duration: "4:11" },
-  { name: "Les portes automatiques", file: "audio/TNB-MAT 24 07 2026 Les auro boréales.mp3", duration: "4:00" },
+  { name: "Les aurores boréales", file: "audio/TNB-MAT 24 07 2026 Les auro boréales.mp3", duration: "4:00" },
   { name: "Le tactile", file: "audio/TNB-MAT 24 07 2026 Le tactile.mp3", duration: "3:27" },
 
 
