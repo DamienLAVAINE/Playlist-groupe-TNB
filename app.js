@@ -10,21 +10,19 @@ const tracks = [
   { name: "Ca balance", file: "audio/TNB-MAT 24 07 2026 Ca balance.mp3", duration: "3:06" },
   { name: "Et si c'était demain", file: "audio/TNB-MAT 24 07 2026 Et si c'était demain.mp3", duration: "4:24" },
   { name: "P'tit d'homme", file: "audio/TNB-MAT 24 07 2026 ti d'homme.mp3", duration: "4:56" },
+  { name: "Gafa", file: "audio/TNB-MAT 24 07 2026 Gafa.mp3", duration: "3:36" },
   { name: "Yaourt", file: "audio/(Audio) Tchett'N'Beuzz-Yaourt Live 09 08 2025.m4a", duration: "2:57" },
   { name: "L'envers de l'endroit", file: "audio/TNB-MAT 24 07 2026 l'envers de l'endroit.mp3", duration: "3:28" },
-  { name: "Jack", file: "audio/TNB-MAT 24 07 2026 Jack.mp3", duration: "3:54" },
-  { name: "Les portes automatiques", file: "audio/TNB-MAT 24 07 2026 Les portes automatiques.mp3", duration: "3:54" },
+  { name: "Jack", file: "audio/TnB - Jack (MAT + basse Dam).mp3", duration: "3:37" },
+  { name: "Les portes automatiques", file: "audio/TnB - Les portes automatiques (MAT + basse Dam).mp3", duration: "3:44" },
   { name: "Seul tout seul", file: "audio/SEUL TOUT SEUL.mp3", duration: "4:56" },
-  { name: "Gafa", file: "audio/TNB-MAT 24 07 2026 Gafa.mp3", duration: "3:36" },
-  { name: "Amor c'est gore", file: "audio/TNB-MAT 24 07 2026 Amor c'est gore.mp3", duration: "4:16" },
-  { name: "La bonne année", file: "audio/TNB-MAT 24 07 2026 la bonne année.mp3", duration: "5:19" },
-  { name: "A quoi qu'il", file: "audio/TNB-MAT 24 07 2026 A qui quoi qu'il.mp3", duration: "4:08" },
-  { name: "El sud america", file: "audio/TNB-MAT 24 07 2026 El sud America.mp3", duration: "4:11" },
-  { name: "Les aurores boréales", file: "audio/TNB-MAT 24 07 2026 Les auro boréales.mp3", duration: "4:00" },
+  { name: "Les aurores boréales", file: "audio/TnB - Les aurores boréales (MAT + basse Dam).mp3", duration: "3:56" },
+  { name: "Amor c'est gore", file: "audio/TnB - Amor c'est gore (MAT + basse Dam).mp3", duration: "4:14" },
+  { name: "La bonne année", file: "audio/TnB - La bonne année (MAT + basse Dam).mp3", duration: "5:13" },
+  { name: "A quoi qu'il", file: "audio/TnB - A qui quoi qu'il (MAT + basse Dam).mp3", duration: "3:43" },
+  { name: "El sud america", file: "audio/TnB - El Sud America (MAT + basse Dam).mp3", duration: "3:49" },
   { name: "Le tactile", file: "audio/TNB-MAT 24 07 2026 Le tactile.mp3", duration: "3:27" },
-
-
-   
+  
 ];
 
 
