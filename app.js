@@ -20,7 +20,8 @@ const tracks = [
   { name: "A quoi qu'il", file: "audio/TnB - A qui quoi qu'il (MAT + basse Dam).mp3", duration: "3:43" },
   { name: "El sud america", file: "audio/TnB - El Sud America (MAT + basse Dam).mp3", duration: "3:49" },
   { name: "Le tactile", file: "audio/TnB - Le tactile (MAT + basse Dam).mp3", duration: "6:09" },
-  
+  { name: "Seul tout seul", file: "audio/SEUL TOUT SEUL_mixed.mp3", duration: "3:38" },
+  { name: "Yaourt", file: "audio/(Audio) Tchett'N'Beuzz-Yaourt Live 09 08 2025.mp3", duration: "4:20" },
 ];
 
 
